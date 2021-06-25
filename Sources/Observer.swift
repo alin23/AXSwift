@@ -1,6 +1,7 @@
 import Cocoa
 import Foundation
 import Darwin
+import ApplicationServices
 
 /// Observers watch for events on an application's UI elements.
 ///

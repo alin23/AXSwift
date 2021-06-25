@@ -1,4 +1,5 @@
 import Foundation
+import ApplicationServices
 
 /// A singleton for the system-wide element.
 public var systemWideElement = SystemWideElement()

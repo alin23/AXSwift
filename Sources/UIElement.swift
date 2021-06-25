@@ -1,5 +1,6 @@
 import Cocoa
 import Foundation
+import ApplicationServices
 
 /// Holds and interacts with any accessibility element.
 ///

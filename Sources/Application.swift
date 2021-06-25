@@ -1,4 +1,5 @@
 import Cocoa
+import ApplicationServices
 
 /// A `UIElement` for an application.
 public final class Application: UIElement {
